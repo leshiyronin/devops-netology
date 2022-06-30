@@ -2,3 +2,7 @@
 
 #PyCharm common files in projects
 .idea
+
+#SSL options
+.github
+
